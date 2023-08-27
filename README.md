@@ -55,8 +55,8 @@
     - 모든 몬스터 클리어 시  성공, 그 전에 사망 시 실패
     - 리스폰 시간 후 재도전 기능
 
- 
+
 **포트폴리오 관련 링크**
-- [깃허브 링크](https://github.com/Shuroop0/ShootingProject "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
+- [깃허브 링크](https://github.com/Shuroop0/ShootingProject/tree/main/Shooting3D "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
 ---
 
